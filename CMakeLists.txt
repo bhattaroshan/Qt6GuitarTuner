@@ -20,7 +20,6 @@ set(PROJECT_SOURCES
         mainwindow.h
         mainwindow.ui
         vumeter.h vumeter.cpp
-        Complex.h Complex.cpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
